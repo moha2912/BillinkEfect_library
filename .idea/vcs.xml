@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Baby-Health-Care" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DisneyCompose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Liker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/babyyodas-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mlkit" vcs="Git" />
+  </component>
+</project>
